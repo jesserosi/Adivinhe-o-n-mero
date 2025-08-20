@@ -4,6 +4,8 @@ import random
 numero_aleatorio = random.randint(1, 10)
 tentativas = 0
 acertou = False
+nome = input("Digite seu nome:")
+print("nome")
 
 
 while not acertou:
