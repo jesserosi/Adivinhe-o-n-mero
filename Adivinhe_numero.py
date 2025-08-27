@@ -27,3 +27,4 @@ while not acertou:
         except ValueError:
             print("Entrada inválida. Digite um número inteiro.")
             
+print(numero)
