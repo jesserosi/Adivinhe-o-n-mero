@@ -17,7 +17,7 @@ while not acertou:
 
             if numero  == numero_aleatorio:
                 acertou = True
-                print(f"Parabéns! Você acertou em {tentativas} tentativas.")
+                print(f"Parabéns! Você acertou.")
                 print(tentativas_passadas)
                 break
             elif numero < numero_aleatorio:
