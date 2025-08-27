@@ -26,5 +26,3 @@ while not acertou:
                  print("Muito alto. Tente novamete")
         except ValueError:
             print("Entrada inválida. Digite um número inteiro.")
-            
-print(numero)
